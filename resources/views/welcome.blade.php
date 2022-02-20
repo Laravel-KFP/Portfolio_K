@@ -40,21 +40,24 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8  " >
-                    <img src="/image/Tanabut.JPG" alt="profile Pic" style="border-radius:100%; margin:100px; margin-bottom:30px;border:5px solid #edf2f7 " widht="250" height="250"/>    
+                    <img src="/image/Tanabut.JPG" alt="profile Pic" style="border-radius:100%; margin:80px; margin-bottom:30px;border:5px solid #edf2f7 " widht="250" height="250"/>    
                     
                     
                     </div>
                 <div class="text-center" style="padding:5px; "    >   
-                    <div class="greet" style="color:aliceblue; font-size:25px">
+                    <div class="greet" style="color:aliceblue; font-size:30px">
                         Welcome to KT's website    
                     </div>
                        
-                <div id="box" style="border-radius:20px; overflow: hidden;background-color:rgba(160,174,192,.4);">
+                    <div id="box" style="padding:20px; border-radius:20px; overflow: hidden;background-color:rgba(74,85,104,.4); margin-top:40px; color:#edf2f7">
+
+                         I am Software Engineer <br> who's knowledge of software developing, <br>including performance, functional, managing and testing software <br> <br>
+                         I'm looking for a position <br> in a Software Engineering internship <br> with excellent analytical skills <br> and techniques that can be enchance my experience <br> for being a great Software Engineer 
+
+                    </div>
 
                 </div>
-
-                </div>
-                </div>
+            </div>
                 
 
             </div>
