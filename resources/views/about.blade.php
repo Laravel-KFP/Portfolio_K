@@ -25,6 +25,7 @@
 
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="1">
+		<img class="img-circle" src="image/Tanabut.jpg" alt="" width="300" height="300">
 		<h1 id="logo" class="text-center">
 			<span class="title">Tanabut Ngoensri</span>
 			<span class="tagline">Software Engineer<br>
