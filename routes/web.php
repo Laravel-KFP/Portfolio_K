@@ -40,3 +40,11 @@ Route::get('/blog', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+Route::get('/about/work', function () {
+    return view('work');
+});
+
+Route::get('/about/education', function () {
+    return view('ed');
+});

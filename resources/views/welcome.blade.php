@@ -60,7 +60,9 @@
 		
 		<div class="row section topspace">
 			<div class="col-md-12">
-				<p class="lead text-center text-muted">I am Software Engineer who's knowledge of software developing, <br> including performance, functional, managing and testing software</p>
+				<p class="lead text-center text-muted">I am Software Engineer who's knowledge of software developing, including performance, functional, managing and testing software
+					<br> <br>
+					I'm looking for a position in a Software Engineering internship with excellent analytical skills and techniques that can be enchance my experience for being a great Software Engineer</p>
 			</div>
 		</div> <!-- / section -->
 		
@@ -70,22 +72,24 @@
 				<div class="col-sm-6 col-md-3">
                     <img class="img-circle" src="image/react.png" alt="" >
 					<h3 class="text-center">React.js</h3>
-					<p>I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.</p>
+					<p>React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.</p>
 				</div>
 				<div class="col-sm-6 col-md-3">
                     <img class="img-circle" src="image/react2.png" alt="">
 					<h3 class="text-center">React Native</h3>
-					<p>I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.</p>
+					<p>React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. 
+
+                        Use a little—or a lot. You can use React Native today in your existing Android and iOS projects or you can create a whole new app from scratch.</p>
 				</div>
 				<div class="col-sm-6 col-md-3">
                     <img class="" src="image/laravel.png" alt="">
 					<h3 class="text-center">Laravel</h3>
-					<p>I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.</p>
+					<p>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.</p>
 				</div>
 				<div class="col-sm-6 col-md-3">
                     <img class="img-circle" src="image/node.png" alt="">
 					<h3 class="text-center">Node.js</h3>
-					<p>I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.</p>
+					<p>As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep.</p>
 				</div>
 			</div>
 		</div> <!-- / section -->

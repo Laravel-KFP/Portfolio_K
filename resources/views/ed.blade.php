@@ -8,7 +8,7 @@
 	
 	<title>KT's website</title>
 
-	<link rel="shortcut icon" href="images/gt_favicon.png">
+	<link rel="shortcut icon" href="/images/gt_favicon.png">
 	
 	<!-- Bootstrap -->
 	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -17,7 +17,7 @@
 	<!-- Fonts -->
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	<!-- Custom styles -->
-	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="/css/styles.css">
 
 	<!--[if lt IE 9]> <script src="js/html5shiv.js"></script> <![endif]-->
 </head>
@@ -62,9 +62,9 @@
 			<aside class="col-sm-4 sidebar sidebar-right">
 
 				<ul class="nav text-right nav-side">
-					<li class="active"><a href="/about">Skills</a></li>
+					<li ><a href="/about">Skills</a></li>
 					<li><a href="/about/work">Work Experience</a></li>
-					<li><a href="/about/education">Education</a></li>
+					<li class="active"><a href="/about/education">Education</a></li>
 				</ul>
 
 			</aside>
@@ -76,26 +76,17 @@
 					<br> <br>
 					I'm looking for a position in a Software Engineering internship with excellent analytical skills and techniques that can be enchance my experience for being a great Software Engineer </p>
 				{{-- <p><img src="images/mac.jpg" alt="" class="" width="100%" ></p> --}}
-				<h3>Skills</h3>
-				<h5>Programming</h5>
+				<h3>Education</h3>
+				<h5>Thammasat University </h5>
 				<p>- Python, Java, JavaScript, HTML, CSS </p>
 
 				<h5>Framework</h5>
-				<p>- React.js, React-Native, Vue.js, Node.js, 
-					Bootstrap</p>
+				<p>  Bachelor of Engineering Program, <br>
+					Software Engineering Program</p>
 
-				<h5>Database</h5>
-				<p>- MySQL</p>
-
-				<h5>Cloud Computing</h5>
-				<p>- Microsoft Azure </p>
-
-				<h5>Tools</h5>
-				<p>- Git, GitHub, VMware, VSCode, Linux, CMD,
-					Terminal, Trello, Miro, Figma </p>
-				<h5>Communicate</h5>
-				<p>- Native speak in Thai Language <br>
-					- B2 in English </p>
+				<h5>Lomsak Wittayakom School</h5>
+				<p>  Mathematics - Science - Computer Program <br>
+					Graduated in 2019</p>
 
 			</article>
 			<!-- /Article -->

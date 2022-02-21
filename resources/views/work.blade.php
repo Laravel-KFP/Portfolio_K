@@ -8,7 +8,7 @@
 	
 	<title>KT's website</title>
 
-	<link rel="shortcut icon" href="images/gt_favicon.png">
+	<link rel="shortcut icon" href="/images/gt_favicon.png">
 	
 	<!-- Bootstrap -->
 	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -17,7 +17,7 @@
 	<!-- Fonts -->
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	<!-- Custom styles -->
-	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="/css/styles.css">
 
 	<!--[if lt IE 9]> <script src="js/html5shiv.js"></script> <![endif]-->
 </head>
@@ -62,9 +62,9 @@
 			<aside class="col-sm-4 sidebar sidebar-right">
 
 				<ul class="nav text-right nav-side">
-					<li class="active"><a href="/about">Skills</a></li>
-					<li><a href="/about/work">Work Experience</a></li>
-					<li><a href="/about/education">Education</a></li>
+					<li ><a href="/about">Skills</a></li>
+					<li class="active"><a href="/about/work">Work Experience</a></li>
+					<li ><a href="/about/education">Education</a></li>
 				</ul>
 
 			</aside>
@@ -76,26 +76,25 @@
 					<br> <br>
 					I'm looking for a position in a Software Engineering internship with excellent analytical skills and techniques that can be enchance my experience for being a great Software Engineer </p>
 				{{-- <p><img src="images/mac.jpg" alt="" class="" width="100%" ></p> --}}
-				<h3>Skills</h3>
-				<h5>Programming</h5>
-				<p>- Python, Java, JavaScript, HTML, CSS </p>
+				<h3>Work Experience</h3>
+				<h5>2015 - 2016 <br>
+					Student Arts And Crafts Competition </h5>
+				<h5>
+					project of computer software in national level 
+				</h5>
+				<p>Develop Club web application to solve the method register into the club problem in school </p>
 
-				<h5>Framework</h5>
-				<p>- React.js, React-Native, Vue.js, Node.js, 
-					Bootstrap</p>
+				<h5>2019 - Present <br>
+					Studying and Develop Software for Society
+					</h5>
+				<p>Execute a project to build software and collaboration with team <br>
+					Execute a project to build a web application of food delivery in Thammasat University <br>
+					Execute a project to build a web application of Photo platform and communication <br>
+					Execute a Machine Learning project to build software of Face detect and recognize on student card  <br>
+					Developing a mobile application of covid visualization (@COMAPOFFICIAL) <br>
+					Developing a mobile application of Ministry of Commerce (moc.go.th) </p>
 
-				<h5>Database</h5>
-				<p>- MySQL</p>
-
-				<h5>Cloud Computing</h5>
-				<p>- Microsoft Azure </p>
-
-				<h5>Tools</h5>
-				<p>- Git, GitHub, VMware, VSCode, Linux, CMD,
-					Terminal, Trello, Miro, Figma </p>
-				<h5>Communicate</h5>
-				<p>- Native speak in Thai Language <br>
-					- B2 in English </p>
+				
 
 			</article>
 			<!-- /Article -->

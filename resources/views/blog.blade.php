@@ -54,7 +54,7 @@
 	</nav>
 </header>
 
-<main id="main">
+{{-- <main id="main">
 
 	<div class="container">
 		
@@ -199,7 +199,7 @@
 
 	</div>	<!-- /container -->
 
-</main>
+</main> --}}
 
 <footer id="footer">
 	<div class="container">
